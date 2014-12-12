@@ -1,0 +1,2 @@
+basal 16 11
+apical 2 2

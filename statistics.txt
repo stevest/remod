@@ -1,0 +1,141 @@
+----------------------------------------
+
+List of all dendrites:
+
+soma[0]
+soma[1]
+dend[0]
+dend[1]
+dend[2]
+dend[3]
+dend[4]
+dend[5]
+dend[6]
+dend[7]
+dend[8]
+dend[9]
+dend[10]
+dend[11]
+dend[12]
+dend[13]
+dend[14]
+dend[15]
+dend[16]
+dend[17]
+dend[18]
+dend[19]
+dend[20]
+dend[21]
+dend[22]
+apic[0]
+apic[1]
+apic[2]
+apic[3]
+apic[4]
+apic[5]
+apic[6]
+apic[7]
+apic[8]
+apic[9]
+apic[10]
+apic[11]
+apic[12]
+
+----------------------------------------
+
+List of terminal dendrites:
+
+dend[2]
+dend[3]
+dend[5]
+dend[6]
+dend[9]
+dend[10]
+dend[12]
+dend[15]
+dend[16]
+dend[17]
+dend[19]
+dend[21]
+dend[22]
+apic[1]
+apic[3]
+apic[6]
+apic[7]
+apic[10]
+apic[11]
+apic[12]
+
+----------------------------------------
+
+List of basal terminal dendrites:
+
+dend[2]
+dend[3]
+dend[5]
+dend[6]
+dend[9]
+dend[10]
+dend[12]
+dend[15]
+dend[16]
+dend[17]
+dend[19]
+dend[21]
+dend[22]
+
+----------------------------------------
+
+List of apical terminal dendrites:
+
+apic[1]
+apic[3]
+apic[6]
+apic[7]
+apic[10]
+apic[11]
+apic[12]
+
+----------------------------------------
+
+List of dendritic lengths:
+
+soma[0] = 9.06
+soma[1] = 9.05
+dend[0] = 25.3043599072
+dend[1] = 69.1713932733
+dend[2] = 161.029824789
+dend[3] = 49.2169454392
+dend[4] = 23.7629568843
+dend[5] = 12.2705408825
+dend[6] = 12.6656231746
+dend[7] = 13.1853624367
+dend[8] = 80.0204742946
+dend[9] = 11.0540741651
+dend[10] = 66.1051143253
+dend[11] = 2.11799433427
+dend[12] = 70.3039838172
+dend[13] = 60.8193123782
+dend[14] = 54.70572508
+dend[15] = 47.5551917092
+dend[16] = 96.6909131337
+dend[17] = 177.363699187
+dend[18] = 15.4461878322
+dend[19] = 57.7987001036
+dend[20] = 78.7903590216
+dend[21] = 48.7249691682
+dend[22] = 30.1045947339
+apic[0] = 36.9641150338
+apic[1] = 14.0427967317
+apic[2] = 9.4185569051
+apic[3] = 37.4343185845
+apic[4] = 69.184719393
+apic[5] = 55.2433639075
+apic[6] = 50.5838772133
+apic[7] = 159.190217109
+apic[8] = 230.026453391
+apic[9] = 73.8896197749
+apic[10] = 23.5918995573
+apic[11] = 16.2704588005
+apic[12] = 230.915851753
+

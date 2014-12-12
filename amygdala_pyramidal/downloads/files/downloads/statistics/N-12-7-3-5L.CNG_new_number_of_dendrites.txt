@@ -1,0 +1,2 @@
+basal:  66 - terminal: 36
+apical:  0 - terminal: 0

@@ -1,0 +1,4 @@
+basal_terminal
+branch
+percent
+60
